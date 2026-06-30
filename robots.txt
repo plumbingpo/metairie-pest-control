@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://metairiepestcontrolco.com/sitemap.xml
